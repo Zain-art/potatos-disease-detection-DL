@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+streamlit
+keras
+uvicorn
+fastapi
+pillow
+python-multipart
+tensorflow-serving-api==2.5.0
